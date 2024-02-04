@@ -7,6 +7,7 @@ body {
 }
 #board {
   background-color: skyblue;
+  background-image: url(./;
 }
 
 #myHeader {

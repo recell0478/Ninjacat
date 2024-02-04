@@ -3,7 +3,6 @@ let board;
 let boardWidth = 360;
 let boardHeight = 640;
 let context;
-let myHeader;
 
 // bird (change to ninja cat later)
 let birdwidth = 34;
